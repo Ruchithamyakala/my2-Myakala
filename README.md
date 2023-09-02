@@ -7,3 +7,7 @@ I like goa because of **amazing beaches** and goa is **world-famous** for its be
 1.Scuba diving in malvan <br>
 2.Trek to Todo waterfalls <br>
 3.Snorkeling.
+"## List of food at my favorite spot"
+1.Mutton fry
+2.Choclates
+3.Chicken
