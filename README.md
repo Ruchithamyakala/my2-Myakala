@@ -27,5 +27,5 @@ This table consists of sports that I play regularly. It also gives the reason wh
 | Kabaddi | Playing kabaddi increases coordination, concentration and stamina. It helps me to reduce my stress and mood levels and gives happiness. | 8 |
 ********
 ### Inspiring Quotations 
-The best and **most beautiful things** in the world cannot be seen or even touched -**they must be felt with the heart**
-The best **preparation** for tomorrow is doing your **best today**.*H.Jackson Brown,Jr.*
+> The best and **most beautiful things** in the world cannot be seen or even touched -**they must be felt with the heart** 
+> The best **preparation** for tomorrow is doing your **best today**.*H.Jackson Brown,Jr.*
