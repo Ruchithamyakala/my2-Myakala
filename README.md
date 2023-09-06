@@ -29,3 +29,34 @@ This table consists of sports that I play regularly. It also gives the reason wh
 ### Inspiring Quotations 
 > The best and **most beautiful things** in the world cannot be seen or even touched -**they must be felt with the heart** <br>
 > The best **preparation** for tomorrow is doing your **best today** - *H.Jackson Brown,Jr.*
+********
+## Code Snippet 
+
+> I'm trying to retrieve the value from a Custom field as below. It doesn't seem to get any value. Please point out the mistakes in it.[https://stackoverflow.com/questions/66293239/wordpress-how-to-retrieve-custom-field-data-from-the-page]
+~~~
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+
+~~~
+<br>
+Dump All Custom Fields [https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/]
+
