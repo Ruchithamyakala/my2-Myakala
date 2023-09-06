@@ -4,4 +4,4 @@ I completed undergraduation in Computer science and engineering.<br>
 I am the younger one in my family, I have two elder siblings.<br>
 I like to read books, dance and play badminton.
 
-![MyPhoto](MyPhoto.jpeg)
+![Mypicture](MyPhoto.jpeg)
